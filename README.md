@@ -7,5 +7,5 @@ Bibliotecas Utilizadas
 - SQL Alchemy
 - Request
 
-Aluno: Luis Imhotep
-Professor Isaac Elgrably
+#Aluno: Luis Imhotep
+#Professor Isaac Elgrably
